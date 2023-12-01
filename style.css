@@ -1,0 +1,142 @@
+/* ordered list */
+ol {
+    /* list-style-type: decimal; */
+    color: red;
+    list-style-type: decimal-leading-zero;
+}
+
+/* unordered list */
+/* ul {
+    list-style-type: square;
+    color: red;
+    
+} */
+
+/* images for bullets */
+/* ul {
+    list-style-image: url("./images/icon-1.png");
+}
+li {
+    margin: 10px 0px 0px 0px;
+} */
+
+/* list style position */
+/* .illuminations{
+    list-style-position: inside;
+}
+.season{
+    list-style-position: outside;
+} */
+
+/* list shorthand */
+/* ul {
+    list-style: inside circle;
+    width: 300px;
+}
+li {
+    margin: 10px 0px 0px 0px;
+} */
+
+/* table properties */
+/* table{
+    border: 2px solid blue;
+    width: 600px;
+    padding: 20px;
+    text-transform: capitalize;
+
+    /* background-color: rgb(9, 253, 253); */
+/* }
+table,td,th{
+    border: 2px solid blue;
+    border-collapse: collapse;
+    text-align: left;
+}
+tr:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+td{
+    padding: 15px;
+}
+th{
+    font-size: bolder;
+    background-color: rgb(43, 86, 226);
+}
+.even{
+    background-color: aquamarine;
+    
+} */ 
+
+/* empty cells */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;
+}
+table.one {
+    empty-cells: show;
+} 
+table.two {
+    empty-cells: hide;
+} */
+
+/* gaps between cells */
+/* td {
+    background-color: #dd7d00;
+    padding: 15px;
+    border: 2px solid #000000;
+} */
+
+
+/* styling forms */
+/* #ln{
+    margin-top: 5px;
+}
+input{
+    font-size: xx-large;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+input:hover{
+    background-color: lightblue;
+}
+input:focus{
+    border: 5px solid brown;
+    outline: none;
+} */
+
+/* #email{
+    background-image: url('./images/email.png');
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    background-size: contain;
+}
+#github{
+    background-image: url('./images/github.png');
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    background-size: contain;
+} */
+
+
+/* styling fieldset ad legends */
+/* fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+} */
+
+
+/* Curser Styling */
+/* #submit-btn:hover{
+    cursor: help;
+} */
